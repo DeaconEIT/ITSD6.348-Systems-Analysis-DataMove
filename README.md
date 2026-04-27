@@ -1,1 +1,3 @@
 # ITSD6.348-Systems-Analysis-DataMove
+
+This GitHub repository presents the DataMove project, an initiative focused on enhancing the operational efficiency of the New Zealand-based moving company, CuzzieMovers, through comprehensive systems analysis. The project is undertaken by a collaborative team consisting of Cairo, Deacon, and Gerard. By adopting an agile development framework, the team aims to iteratively design, evaluate, and implement effective solutions, ensuring the project is delivered within the determined timeline while maintaining adaptability and continuous improvement throughout the development process.
